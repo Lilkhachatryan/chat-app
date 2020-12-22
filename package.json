@@ -1,5 +1,5 @@
 {
-  "homepage": "http://mywebsite.com/relativepath",
+  "homepage": "https://chat-microservices-app.herokuapp.com/",
   "name": "chat-app",
   "version": "0.1.0",
   "private": true,
